@@ -13,5 +13,5 @@ The program:
 - Prints the text `Hello, World!` to the console
 - Helps beginners understand how a basic Python script works
 
-Example output:
+
 
