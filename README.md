@@ -1,3 +1,7 @@
+Matric no:24/14425
+Name:ubani chinyere blessing
+Dept:computer science 
+
 # Hello World in Python 
 
 This repository contains a simple Python program that prints **"Hello, World!"** to the screen.  
